@@ -9,7 +9,7 @@ pycodestyle==2.6.0
 pycparser==2.20
 pytz==2020.4
 six==1.15.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 toml==0.10.2
 wincertstore==0.2
 WTForms==2.3.3
